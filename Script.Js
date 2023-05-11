@@ -147,7 +147,7 @@ function updateProfile(data) {
       }
 
       //by Default, It shows Pranay Gupta in UI
-      getUserData(url + "thepranaygupta");    
+      getUserData(url + "Kapilch15");    
 
       }
     // const prefersDarkMode = window.matchMedia && window.matchMedia("prefers-color-scheme: dark").matches;
